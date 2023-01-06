@@ -42,7 +42,7 @@ Follow these instructions to get started:
 
 #### Download directly from GitHub
  3. Choose "Add package from Git URL"
- 4. Enter the URL from this repository: https://github.com/NilsFo/Unity-KeyboardInputOverlay-Package
+ 4. Enter the git URL from this repository: https://github.com/NilsFo/Unity-KeyboardInputOverlay-Package.git
  5. Done. Unity will now install this package automatically.
 
 #### Manually install the package
